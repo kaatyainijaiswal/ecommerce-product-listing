@@ -17,3 +17,4 @@ A responsive product listing interface built with React. Features include:
 
 ### 🛒 Product Listing Page
 ![Product Listing](./screenshots/product-listing.png)
+![Product Listing2](./screenshots/product-listing2.png)
