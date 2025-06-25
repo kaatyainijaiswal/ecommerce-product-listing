@@ -12,6 +12,10 @@ A responsive product listing interface built with React. Features include:
 - Fake Store API
 - Plain CSS
 
+
+## 🌐 Live Demo
+
+[Click here to view the live project](https://kaatyainijaiswal.github.io/ecommerce-product-listing/)
 ## 📸 Screenshots
 
 ### 🛒 Product Listing Page
