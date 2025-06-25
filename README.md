@@ -5,7 +5,6 @@ A responsive product listing interface built with React. Features include:
 - Filter by category and rating
 - Sort by price
 - Add/remove favorites (with persistence in localStorage)
-- Infinite scroll for better UX
 - Clean layout using plain CSS
 
 ## 🔧 Tech Stack
